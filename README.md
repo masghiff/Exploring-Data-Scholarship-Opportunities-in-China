@@ -9,3 +9,5 @@ Feel free to browse the notebook, explore the code, and leverage the findings to
 Let this repository serve as a valuable resource for anyone interested in understanding the opportunities and trends in data science scholarships in China. 
 Your feedback and contributions are always welcome to enhance the analysis and provide additional value to the community. 
 which delves into various aspects of scholarships offered in China.
+IF YOU WANT ACCESS DASHBOARD USE THIS LINK : 
+http://localhost:3000/public/dashboard/fcb87262-d051-4c17-bc23-7e9d5b675b1f
